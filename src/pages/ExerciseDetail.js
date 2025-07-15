@@ -12,7 +12,7 @@ const ytOptions = {
 	method: 'GET',
 	headers: {
 		'x-rapidapi-host': 'youtube-search-and-download.p.rapidapi.com',
-		'x-rapidapi-key': '21c9003bf9mshfc6831daa1ee27fp12b60ejsna193940a5e65'
+		'x-rapidapi-key': RAPID_API_KEY
 	}
 };
 
