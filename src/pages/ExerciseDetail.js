@@ -5,7 +5,6 @@ import { Box } from '@mui/material';
 import Details from '../components/Details';
 import ExerciseVideos from '../components/ExerciseVideos';
 import SimilarExercises from '../components/SimilarExercises';
-import { CollectionsBookmarkOutlined } from '@mui/icons-material';
 
 const ytURL = 'https://youtube-search-and-download.p.rapidapi.com'
 const ytOptions = {
